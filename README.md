@@ -1,5 +1,3 @@
-# SkillFactory-Python-Developer-Intensive
-
 # 🎓 Course: "Python Developer. Intensive" — SkillFactory (2022)
 
 In 2022, I completed an intensive online course in Python development offered by SkillFactory. Over the course of three months, I studied both fundamental and advanced topics and worked on several hands-on projects.
