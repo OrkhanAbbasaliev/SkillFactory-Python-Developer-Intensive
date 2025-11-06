@@ -5,7 +5,8 @@ In 2022, I completed an intensive online course in Python development offered by
 ✅ What I learned:
 - Confident programming in Python: syntax, functions, OOP, file handling, exceptions
 
-- Practical experience with libraries and tools: requests, re, unittest, asyncio, sqlite3, psycopg2, and more
+- Practical experience with libraries and tools:
+ requests, re, unittest, asyncio, sqlite3, psycopg2, and more
 
 - Web development with Django
 
@@ -32,3 +33,5 @@ Throughout the course, I completed 50+ coding exercises and developed several pr
 - Built a portfolio of practical projects (some available on my GitHub)
 
 - Gained confidence to tackle real-world development tasks
+
+[Abbasaliev intrenship.pdf](https://github.com/user-attachments/files/23397686/Abbasaliev.intrenship.pdf)
