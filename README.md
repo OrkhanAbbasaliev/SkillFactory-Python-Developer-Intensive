@@ -34,4 +34,5 @@ Throughout the course, I completed 50+ coding exercises and developed several pr
 
 - Gained confidence to tackle real-world development tasks
 
-[Abbasaliev intrenship.pdf](https://github.com/user-attachments/files/23397686/Abbasaliev.intrenship.pdf)
+
+![Abbasaliev intrenship_page-0001](https://github.com/user-attachments/assets/82636141-7364-4f47-934e-f75da34d8d98)
